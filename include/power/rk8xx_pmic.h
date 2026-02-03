@@ -207,7 +207,7 @@ enum {
 #define RK8XX_ID_MSK	0xfff0
 
 #define RK817_PMIC_CHRG_TERM	0xe6
-#define RK817_PMIC_SYS_CFG1	0xf1
+#define RK817_PMIC_SYS_CFG0	0xf1
 #define RK817_PMIC_SYS_CFG3	0xf4
 #define RK817_GPIO_INT_CFG	0xfe
 
